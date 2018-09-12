@@ -8,7 +8,7 @@ module.exports = function(grunt) {
         'js/screens/play.js',
         'js/screens/gameover.js',
     ];
-
+   
     // Project configuration.
     grunt.initConfig({
         uglify: {
